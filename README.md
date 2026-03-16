@@ -3,6 +3,9 @@
 > A professional analytics dashboard that simulates how an FMCG company like **Nestlé** monitors product inventory, sales trends, and supply chain analytics — built with **React**, **Tailwind CSS**, and **Recharts**.
 
 ---
+## 🎥 Demo Video
+
+[Watch Demo](https://drive.google.com/file/d/12CI5bAEQ_13wnOt8KjH5VOoqHr4YqG9b/view?usp=sharing)
 
 ## ✨ Features
 
